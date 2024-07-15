@@ -1,0 +1,10 @@
+# node_exporter.yml
+
+collectors:
+  - cpu           # Collect CPU metrics
+  - mem           # Collect memory metrics
+  - diskstats     # Collect disk metrics
+  - filesystem    # Collect filesystem metrics
+  - netstat       # Collect network metrics
+  - textfile      # Collect metrics from text files
+  - thermal_zone  # Collect thermal metrics

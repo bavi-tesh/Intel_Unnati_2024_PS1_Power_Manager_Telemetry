@@ -1,6 +1,6 @@
 # Power Manager Telemetry
 
-![Intel Unnatis Logo]()
+![Intel Unnatis Logo](assets/Picture1.png)
 
 ## Overview
 
